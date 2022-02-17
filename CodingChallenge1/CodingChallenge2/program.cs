@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace FibonacciEvenSum
 
 {
-    class FibonacciEvenSum
+    class program
     {
         static void Main(string[] args)
         {

@@ -18,6 +18,8 @@ namespace CodingChallenge1
 
 
             //writing a for loop to count natural numbers by 3's from 0 to 1000. 
+
+
             for (int i = 3; i < 1000; i += 3)//attempting to iterate by 3
             {
                 //Console.WriteLine(i); placed to test the iteration for count by 3
