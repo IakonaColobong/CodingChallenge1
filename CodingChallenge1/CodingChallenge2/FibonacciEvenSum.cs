@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodingChallenge2
+namespace FibonacciEvenSum
+
 {
-    class Fibonacci
+    class FibonacciEvenSum
     {
         static void Main(string[] args)
         {
